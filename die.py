@@ -31,5 +31,5 @@ class Die():
 #roll() returns a value, the simulated result of rolling the die
 #x_gen() creates a list of each possible result for pygal projections
 #x_mult_gen()) does the same, but takes two arguments for projections that use-
-#- more then one die.
+#- more then one die
 #Props to my friend Zach pointing out this extremly obvious functionality
